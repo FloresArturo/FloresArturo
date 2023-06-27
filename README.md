@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FloresArturo
 - 👀 I’m interested in ... soil and water, digital soil mapping, soil informatics
 - 🌱 I’m currently learning ... digital soil mapping and soil nutrient predictions
-- 💞️ I’m looking to collaborate on ... dsm, irrigation projects
+- 💞️ I’m looking to collaborate on ... Digital Soil Mapping
 - 📫 How to reach me ... afloresg@earth.ac.cr, afloresg@iastate.edu
 
 <!---
